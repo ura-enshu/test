@@ -1,20 +1,3 @@
 INDEX VERSION 1.127+C:\Users\radis\Desktop\workspace\workspace-urano\test\.metadata\.plugins\org.eclipse.jdt.core
-146543314.index
-2529443876.index
-2598846652.index
-2748614466.index
-522795626.index
-1939527854.index
-3764553086.index
-3217827400.index
-775636512.index
-2551493725.index
-2202459917.index
+4228328552.index
 2131709997.index
-1522187607.index
-4199431767.index
-3494890909.index
-2326907123.index
-4103139325.index
-632834094.index
-1238419977.index
