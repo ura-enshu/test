@@ -1,2 +1,2 @@
 eclipse.preferences.version=1
-internalWebBrowserHistory=http\://localhost\:8080/HelloJSP/|*|
+internalWebBrowserHistory=http\://localhost\:8080/HelloServlet/TestServlet|*|http\://localhost\:8080/HelloServlet/|*|http\://localhost\:8080/HelloServlet/TestServlet?username\=yamada&password\=yama|*|http\://localhost\:8080/HelloJSP/|*|http\://localhost\:8080/HelloJSP/gretting-out.jsp|*|

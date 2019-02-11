@@ -1,3 +1,0 @@
-drop database if exists sampledb_urano;
-create database sampledb_urano;
-use sampledb_urano;
