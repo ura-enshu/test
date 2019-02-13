@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/WelcomeSrvlet")
+@WebServlet("/WelcomeServlet")
 public class WelcomeServlet extends HttpServlet {
     public WelcomeServlet() {
         super();

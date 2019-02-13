@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="リソース名 &apos;HelloJSP/WebContent/greeting-out.jsp&apos; を &apos;gretting-out.jsp&apos; に変更します" description="リソース &apos;greeting-out.jsp&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/greeting-out.jsp" name="gretting-out.jsp" stamp="1550057242293" updateReferences="true"/>&#x0A;<refactoring comment="リソース名 &apos;HelloJSP/WebContent/gretting-out.jsp&apos; を &apos;greeting-out.jsp&apos; に変更します" description="リソース &apos;gretting-out.jsp&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/gretting-out.jsp" name="greeting-out.jsp" stamp="1550057323335" updateReferences="true"/>
+</session>
