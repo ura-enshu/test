@@ -19,7 +19,6 @@ public class LoginAction extends ActionSupport{
 		LoginDTO dto=new LoginDTO();
 
 		dto=dao.select(name, password);
-
 		if(name.equals(dto.getName())){
 			if(password.equals(dto.getPassword())){
 				ret=SUCCESS;

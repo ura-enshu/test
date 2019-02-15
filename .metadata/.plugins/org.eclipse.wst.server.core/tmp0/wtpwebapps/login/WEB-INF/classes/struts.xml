@@ -6,11 +6,11 @@
 
 <struts>
  <constant name="struts.devMode" value="true"/>
- <package name="com.internousdev.login.action" extends="sturts-default">
+ <package name="com.internousdev.login.action" extends="struts-default">
   <action name="LoginAction" class="com.internousdev.login.action.LoginAction" method="execute">
 
-   <result name="succes">loginSucces.jsp</result>
-   <result name="eroor">loginError.jsp</result>
+   <result name="success">loginSuccess.jsp</result>
+   <result name="error">loginError.jsp</result>
   </action>
  </package>
 
