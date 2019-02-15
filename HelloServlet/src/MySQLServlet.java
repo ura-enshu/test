@@ -48,7 +48,7 @@ public class MySQLServlet extends HttpServlet {
 			while(rs.next()){
 				int userId=rs.getInt("user_id");
 				String userName=rs.getString("user_name");
-				String userPassword=rs.getString("paddword");
+				String userPassword=rs.getString("password");
 				out.println("<p>");
 				out.println("ユーザーID:"+userId+",ユーザー名:"+userName+",パスワード:"+userPassword);
 				out.println("(</p>");
@@ -60,6 +60,8 @@ public class MySQLServlet extends HttpServlet {
 			out.println("ClassNotFoundException:"+e.getMessage());
 		}catch(SQLException e){
 			out.println("SQLException"+e.getMessage());
+		}catch(Exception e){
+			out.println("Exception:"+e.getMessage());
 	}finally{
 		try{
 			if(conn !=null){
